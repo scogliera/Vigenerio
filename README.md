@@ -6,7 +6,7 @@
 		</a>
 		</br>
 	</header>
-	<h4>A simple <b>WPF App</b> that encrypts plaintext using the Vigenère cipher.</h4>
+	<h4>A simple</h4><b> WPF App </b><h4>that encrypts plaintext using the Vigenère cipher.</h4>
 	<p>
 		<a href="https://github.com/scogliera/Vigenerio/tree/main/Vigenerio" target="_blank">
 			<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/scogliera/Vigenerio?style=for-the-badge">
